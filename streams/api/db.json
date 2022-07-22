@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "dog",
+      "id": 1
+    },
+    {
+      "title": "Apple",
+      "description": "Apple",
+      "userId": "116224963356537316965",
+      "id": 2
+    },
+    {
+      "title": "hilo",
+      "description": "hi",
+      "userId": "116224963356537316965",
+      "id": 3
+    }
+  ]
+}
